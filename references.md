@@ -1,1 +1,3 @@
-this is a merge conflict!!! BAD 
+# References
+
+* octocat. meow meow 🐙🐈
